@@ -1,6 +1,10 @@
 [
-"පකයා", "පක", "පකිය", "හුත්ත", "හුත්ති", "හුත්තෝ", "කැරියා", "කැරි", "පොන්නයා", "පොන්න", "වේසි", "වේසිගෙ", "පරට්ට", "හුකනවා", "හුකන්නා", "කවුද පකයෝ",
-"paka", "pakaya", "pakiya", "pakayo", "huttha", "huththa", "huthi", "huththi", "huttho", "kariya", "kari", "kariyo", "ponnaya", "ponna", "wesi", "wesige", "paraya", "paratti", "hukanawa", "hukanna", "hukan", "adho pako", "kari balla",
-"fuck", "fucker", "fucking", "shithole", "asshole", "bitch", "bastard", "dick", "dickhead", "pussy", "idiot", "stupid", "useless", "shut up", "nonsense", "garbage", "trash", "dumb", "loser", "scumbag", "piece of shit", "son of a bitch",
-"🖕","💋","🍑","💦"
+    // --- SINHALA ---
+    "පකයා", "පක", "පකිය", "හුත්ත", "හුත්ති", "හුත්තෝ", "කැරියා", "කැරි", "පොන්නයා", "පොන්න", "වේසි", "වේසිගෙ", "හුල්ලො", "හුට්ටො", "පුක", "කාලකන්නියා", "කාලකන්නි", "පරයා", "පරට්ට", "තිරිසනා", "හුජ්ජ", "අම්මට", "හුකනවා", "හුකන්නා", "කවුද පකයෝ",
+    // --- SINGLISH ---
+    "paka", "pako", "pakaya", "pakiya", "pakayo", "huttha", "huththa", "huthi", "huththi", "huttho", "hutta", "huth", "kariya", "kari", "kariyo", "ponnaya", "ponna", "wesi", "wesige", "balla", "balli", "modaya", "moda", "kalakanniya", "kalakanni", "hukanawa", "hukanna", "hukan", "adho pako", "kari balla",
+    // --- ENGLISH ---
+    "fuck", "fucker", "fucking", "shithole", "asshole", "bitch", "bastard", "dick", "dickhead", "pussy", "idiot", "stupid", "useless", "shut up", "nonsense", "garbage", "trash", "dumb", "loser", "scumbag", "piece of shit", "son of a bitch",
+    // --- EMOJI ---
+    "🖕","💋","🍑","💦"
 ]
